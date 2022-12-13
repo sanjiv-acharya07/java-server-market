@@ -1,0 +1,6 @@
+Shopping
+bruhItem: Cat Food, Amount: 3, Price: 10.00 
+Item: Cat Food, Amount: 3, Price: 10.00 
+Item: Hat, Amount: 2, Price: 10.00 
+Item: Hat, Amount: 2, Price: 10.00 
+Item: Coat, Amount: 1, Price: 30.00 

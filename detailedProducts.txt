@@ -1,0 +1,9 @@
+Store1,Gloves,60,Gloves to keep your hands warm,13.00
+Store1,Hat,78,Hat to keep your head warm,10.00
+Store1,Coat,12,Coat to keep you warm,30.00
+Store2,Candy,8,Candy to enjoy eating,4.00
+Store2,Cat Food,15,This is food to feed your cat which is very nutritious,10.00
+Store2,Pancake Mix,8,Thing to make pancakes with,8.00
+Store3,Cold Medicine,15,Medicine to stop a cold,10.00
+Store3,Bandages,40,Adhesive to stop bleeding,5.00
+Store3,Vitamins,25,Nutritional vitamins,15.00

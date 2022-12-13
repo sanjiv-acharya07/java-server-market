@@ -1,0 +1,2 @@
+Seller1:Store1,Store2
+Seller2:Store3
